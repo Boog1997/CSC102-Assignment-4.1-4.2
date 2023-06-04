@@ -1,0 +1,42 @@
+/*Terry Shade Assignment 4.1 Event Driven Programming*/
+h1
+{
+    color:blueviolet; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2
+{
+    color:blueviolet; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:cursive;
+}
+
+button
+{
+    padding: 16px,30px;
+    margin: 12px,6px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-color:darkgrey;
+    text-align: center;
+    font-size: 15px;
+    font-family: Georgia;
+    font-weight: bold;
+    color:goldenrod;
+    cursor:pointer;
+    background-color:rgb(4, 146, 4);
+    height: 50px;
+    width: 100px;   
+}
+
+body
+{
+    /*background-color:rgb(235, 66, 66);*/
+    background-image:radial-gradient(yellow, red);
+    /*background-image:radial-gradient(#db5252, #6bf18d);*/
+
+    /*background-image: url("hawk.jpg");
+    background-repeat: no-repeat;
+    background-size:cover; */
+}
